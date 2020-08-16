@@ -1,6 +1,6 @@
 #LDR_Termistor_Display_16_x_2
 
-Projeto que exibe em um Display 16x2 a temperatura recuperada pelo Termistor e a luminosidade do ambiente recuperada pelo Fotoresistor.
+Projeto que exibe em um Display 16x2 a temperatura medida pelo Termistor (NTC 10K) e a luminosidade do ambiente medida pelo Fotoresistor (LDR).
 O brilho do Display é controlado por um Potenciômetro de 10KOhms
 
 ##Pinagem:
