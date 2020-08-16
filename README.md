@@ -29,27 +29,27 @@ Um LED irá acender quando a medida de luminosidade for menor que 400 e apagará
 ### Termistor:
 |Terminais do Termistor|Portas do Arduino|
 |-|-|
-|Terminal 1|5V|
-|Terminal 2 -> Resistor 10KOhms -> GND|Terminal 2 na A5|
+|1|5V|
+|2 -> Resistor 10KOhms -> GND|Terminal 2 na A5|
 
 ### Fotoresistor:
 |Terminais do Fotoresistor|Portas do Arduino|
 |-|-|
-|Terminal 1|5V|
-|Terminal 2 -> Resistor 1KOhms -> GND|Terminal 2 na A0|
+|1|5V|
+|2 -> Resistor 1KOhms -> GND|Terminal 2 na A0|
 
 ### Potenciômetro:
-|Terminais do Potenciômetro|Portas do Arduino|
+|Terminais|Portas do Arduino|
 |-|-|
-|Terminal 1|5V|
-|Terminal 2|Ligado ao V0 do Display 16x2|
-|Terminal 3|GND|
+|1|5V|
+|2|Ligado ao V0 do Display 16x2|
+|3|GND|
 
 ### LED:
-|Terminais do LED|Portas do Arduino|
+|Terminais|Portas do Arduino|
 |-|-|
-|Terminal Positivo|D10|
-|Terminal Negativo -> Resistor 220Ohms|GND|
+|Positivo|D10|
+|Negativo -> Resistor 220Ohms|GND|
 
 
 
